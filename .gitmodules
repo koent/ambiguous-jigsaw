@@ -1,0 +1,3 @@
+[submodule "constraint-solver"]
+	path = constraint-solver
+	url = git@github.com:koent/constraint-solver.git
